@@ -1,7 +1,3 @@
-// Pong
-// Made By: Kevin Jardine
-// Version 1.5
-// Last Edit: 05/12/2022
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
